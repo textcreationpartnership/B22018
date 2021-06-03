@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions and directions made by the trustees nominated in an Act of Parliament, (entituled, An Act for the deafforestation, sale and improvement of the forests; and of the honors, manors, lands, &amp;c. within the usual limits and perambulations of the same, heretofore belonging to the late King, Queen and prince) to be left with the chief officer of every town and place where the summons of the said trustees have been published, for all persons to make out their respective interests within the time limited by the said Act.</title>
+            <title>Miscellaneous Documents. 1653-12-01</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22018</idno><idno type="EEBO-CITATION">99886772</idno>
+  <idno type="VID">192357</idno>
+  <idno type="EEBO-PROQUEST">2264217025</idno>
+  
+            <idno type="STC">Wing E1593</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[15]</idno>
+            <idno type="STC">ESTC R226579</idno>
+            <idno type="PROQUEST">ocm99886772</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886772e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192357)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions and directions made by the trustees nominated in an Act of Parliament, (entituled, An Act for the deafforestation, sale and improvement of the forests; and of the honors, manors, lands, &amp;c. within the usual limits and perambulations of the same, heretofore belonging to the late King, Queen and prince) to be left with the chief officer of every town and place where the summons of the said trustees have been published, for all persons to make out their respective interests within the time limited by the said Act.</title>
+                  <title>Miscellaneous Documents. 1653-12-01</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Arms 50; Steele notation: care  shall  of.</note>
+                  <note>Date of document from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Forests and forestry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:192357:1"/>
+            <p>
+               <figure>
+                  <figDesc>coat of arms of the Commonwealth of England, 1653</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <head>INSTRUCTIONS and DIRECTIONS</head>
+            <argument>
+               <p>
+                  <hi>Made by the Trustees nominated in an Act of Parliament, (Entituled, <hi>An Act for the Deaffore<g ref="char:EOLhyphen"/>station, Sale and Improvement of the Forests; And of the Honors, Manors, Lands,</hi> &amp;c. <hi>within the usual Limits and Perambulations of the same, heretofore belonging to the late King, Queen and Prince)</hi> to be left with the chief Officer of every Town and place where the Summons of the said Trustees have been published, for all persons to make out their respective Inte<g ref="char:EOLhyphen"/>rests within the time limited by the said Act.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>He said Trustees intending, according to the Trust reposed in them, as to take care that all persons may receive a competent satisfaction for their respective Interests in the premises; so especially that the Poor, living and bordering upon the said Forests, may be in a good measure provided for, out of such Proportions as the said Trustees shall alow, in lieu and satisfaction of Interests claimed: And therefore to the end that all Claims may be orderly and regularly put in and prosecuted, that so the speedy provision intended for the said Poor may not be retarded; And that all may know how to proceed, and what is expected from them, The said Trustees have thought fit, according to the said Act of Parliament, to give these Directions following:</p>
+            <p n="1">1. That all persons, Bodies Politique or Corporate, and Inhabitants of any Township or Village, pretending Interest as aforesaid, by themselves or their sufficient Deputy and Attor<g ref="char:EOLhyphen"/>ney (authorized as hereafter is directed) are within Thirty days after publication of the said Summons, to enter their Appearances and Claims in Writing before the said Trustees at <hi>Worcester-</hi>house in the Strand <hi>Middlesex,</hi> which they are to expect shall be read in course as they are in time brought in, on such days as by the said Trustees shall be appointed.</p>
+            <p n="2">II. That if the said Trustees shall see cause to refer the said Claims to their Councel, Then the Maimants (or those authorized by them) are to repair to the Examiner appointed by the Tru<g ref="char:EOLhyphen"/>stees, and exhibit Interogatories for the examination of their Witnesses and proof of their Evidences, and then forthwith to give the Names and places of aboad of such their Witnesses to the said Councel, to the end they may be cross-examined on the behalf of the Commonwealth, if they shall see cause.</p>
+            <p n="3">III. That Copies of all such Examinations are to be taken forth, and brought to the said Councel to draw up, and certifie a Report thereupon to the said Trustees, who will take care that the same be dispatcht in course with the soonest and best conveniency.</p>
+            <p n="4">IV. That all person and persons, and the major part of any Corporation, Town, Hamblet or Village, pretending Interest as aforesaid, have hereby liberty, and may make and appoint under their Hands and Seals, one or more lawful Deputy or Deputies, Attorney or Attorneys, to enter and prosecute their said Claims as before is directed, and according to the said Act of Parliament in that case made and provided.</p>
+            <closer>
+               <signed>
+                  <hi>Signed in the Name and by the appointment of the said Trustees, <hi>William Tayleure,</hi> Secr'.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
